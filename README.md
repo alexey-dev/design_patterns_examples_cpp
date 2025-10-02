@@ -1,7 +1,9 @@
-Project contains examples of implementations of design patterns from GoF(Gang of Four) book Design Patterns. There were 3 categories of patterns:
+Project contains examples of implementation for design patterns from GoF(Gang of Four) book Design Patterns. There were 3 categories of patterns:
+```
 Creational Patterns
 Structural Patterns
 Behavioral Patterns
+```
 
 At this moment there are examples for:
 ```
